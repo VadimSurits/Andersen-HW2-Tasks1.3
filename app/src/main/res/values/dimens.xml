@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_regular">10dp</dimen>
+    <dimen name="line_spacing">5sp</dimen>
+    <dimen name="article_subheading_textsize">24sp</dimen>
+    <dimen name="article_subheading_margintop">16dp</dimen>
+    <dimen name="article_subheading_margin_start_end">20dp</dimen>
+    <dimen name="article_subheading_margin_bottom">5dp</dimen>
+    <dimen name="inner_header_width">100dp</dimen>
+    <dimen name="inner_header_margin_start">30dp</dimen>
+    <dimen name="inner_header_textsize">20sp</dimen>
+</resources>
